@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	  "author": "Marco Gutierrez <markafet@gmail.com> (Website_Pending)",
+	"author": "Marco Gutierrez <markafet@gmail.com> (Website_Pending)",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
