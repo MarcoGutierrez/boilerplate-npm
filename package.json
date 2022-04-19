@@ -9,7 +9,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git",
-		"author":"Marco Gutierrez"
-	}
+		"url": "https://idontknow/todo.git"
+	},
+	{
+  "author": "Marco Gutierrez <markafet@gmail.com> (Website_Pending)"
+}
 }
